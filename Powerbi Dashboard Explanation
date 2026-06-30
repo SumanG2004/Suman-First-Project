@@ -1,0 +1,43 @@
+# 📊 Business Performance Dashboard - Power BI
+
+## Overview
+This project is an interactive Business Performance Dashboard created using Power BI. It helps analyze business performance by displaying important metrics and visualizations in a simple and interactive way.
+
+## Dashboard Metrics
+* Total Revenue
+* Total Cost
+* Total Profit
+* Total Customers
+* Total New Users
+* Total Premium Users
+
+## Dashboard Visualizations
+* KPI cards showing key business metrics.
+* Monthly Revenue Trend to analyze revenue performance over time.
+* Comparison of New Users and Premium Users.
+* Comparison of Total Cost and Total Profit.
+* Month slicer to filter and analyze dashboard data for specific months.
+
+## Tools Used
+* Power BI
+* Microsoft Excel
+
+## Skills Demonstrated
+* Data Cleaning
+* Data Modeling
+* Data Visualization
+* Dashboard Design
+* Interactive Report Development
+
+## Key Insights
+* Monitored monthly revenue trends.
+* Compared business cost and profit.
+* Tracked customer growth using new and premium user metrics.
+* Used interactive filters for better business analysis.
+
+## Dashboard Preview
+The dashboard image is included in this repository.
+
+## Author
+**G. Suman**
+Aspiring Data Analyst | Excel | SQL | Power BI
